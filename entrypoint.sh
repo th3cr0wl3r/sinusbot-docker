@@ -11,3 +11,4 @@ sudo -u "$SINUS_USER" "$SINUS_DIR/ts3bot" -update
 
 echo "Starting TeamSpeak SinusBot ..."
 sudo -u "$SINUS_USER" ./"$SINUS_DIR/sinusbot"
+echo "exiting"
