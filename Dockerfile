@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER Th3Kevmaster74 <kevmaster74@gmail.com>
+MAINTAINER risosw <dockerfile@ricosw.de>
 
 ENV SINUS_USER="sinusbot" \
     SINUS_GROUP="sinusbot" \
